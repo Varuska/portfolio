@@ -3,10 +3,10 @@
 
 
 <h1>Autor<h1>
-Maria Varuska Aranguren.
+<h5>Maria Varuska Aranguren.</h5>
 
 <h1>Instalação</h1>
-Este projeto não precisa de instalação.
+<h5>Este projeto não precisa de instalação.</h5>
 
 <h1>Contato </h1>
-Varusk9@gmail.com
+<h5>Varusk9@gmail.com</h5>
